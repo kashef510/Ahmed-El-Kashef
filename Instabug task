@@ -31,7 +31,7 @@ number of characters availed
 _____________________________________
 
 unfortunately i couldn't catch any high or critical bug/defect, yet i spotted some ux issues that could be avoided as shown below:
-1. The pro version features should be labeled or dimmed to avoid choosing them in case the user is not willing to pay for the pro version.
+1. The pro version features should be labelled or dimmed to avoid choosing them in case the user is not willing to pay for the pro version.
 impact: having access to these features raise the user expectations, accordingly when he/she finds out 
 that he/she needs to pay for the pro version it leads to customer dissapointment.
 
