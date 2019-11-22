@@ -1,0 +1,39 @@
+priority 1: high
+priority 2: medium
+priority 3: Low
+
+### Part1 test coverage points for the free version:
+_______________________________________________________________________________
+
+1. Entering expenses and income on different dates (sysdate,past & future)                    priority 2
+2. Entering expenses and income for each category (transportation, clothes, etc..)            priority 2
+3. Test everything related to the calculations                                                priority 1
+4. Test each feature such as: budget mode,carry over, etc...                                  priority 1
+5. Test the different currencies                                                              priority 3
+6. Test the different languages                                                               priority 2
+7. Test the different accounts (cash,payment card & all)                                      priority 1
+8. Test the data per different durations (day, week, month, year, all)                        priority 2
+9. Test data for a specific chosen date (choose date)                                         priority 2
+10. Test the addition and deletion of data                                                    priority 1
+11. Test the notes written for each record insertion                                          priority 3
+12. Export file is shared on different channels and the excel sheet is correct                priority 3
+13. Make sure that all the pro version features are not accessible from the free ver          priority 1
+14. test the interuptions for the app (receiving a call while using the app)                  priority 2
+15. App performance & usability                                                               priority 1
+16. Test that each button is mapped correctly to the hyperlinked page                         priority 1
+17. Test the app on different devices with different screen sizes                             priority 1
+18. Test the transfer feature from cash to payment card and vice versa                        priority 2
+19. Test the notes fields if it allows special characters and numbers and the total           priority 3
+number of characters availed
+20. Test the features of the first day of the week/month                                      priority 1
+
+### Part2 reporting defects:
+_____________________________________
+
+unfortunately i couldn't catch any high or critical bug/defect, yet i spotted some ux issues that could be avoided as shown below:
+1. The pro version features should be labeled or dimmed to avoid choosing them in case the user is not willing to pay for the pro version.
+impact: having access to these features raise the user expectations, accordingly when he/she finds out 
+that he/she needs to pay for the pro version it leads to customer dissapointment.
+
+2. Entering data on dates other than the sysdate is misleading, couldn't be reached easily.
+3. Some features needs a quick demo to know how it is calculated, such as the deposit behavior.
