@@ -34,6 +34,8 @@ unfortunately i couldn't catch any high or critical bug/defect, yet i spotted so
 1. The pro version features should be labelled or dimmed to avoid choosing them in case the user is not willing to pay for the pro version.
 impact: having access to these features raise the user expectations, accordingly when he/she finds out 
 that he/she needs to pay for the pro version it leads to customer dissapointment.
+It is also very frustrating and annoying that each time i choose to use a feature i find out that it is for the pro version
 
-2. Entering data on dates other than the sysdate is misleading, couldn't be reached easily.
+2. Entering data on dates other than the sysdate is misleading, couldn't be reached easily. 
+The app should be more clear how to add data on past or future dates
 3. Some features needs a quick demo to know how it is calculated, such as the deposit behavior.
